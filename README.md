@@ -2,11 +2,11 @@
 
 Yes I am a dragon ball fan!
 
-Currently learning web development, along with digital art and music composition.
+Currently learning web development, game development.
 
 ---
 
-<img src="[https://your-image-link.png](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2E4bjhucjRldW91NG9kdXh0bmE5ZTE5b3poaW5tbjBybzh6YXVqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RWL5VzkBVf7n9uH1UZ/giphy.gif)" width="350" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2E4bjhucjRldW91NG9kdXh0bmE5ZTE5b3poaW5tbjBybzh6YXVqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RWL5VzkBVf7n9uH1UZ/giphy.gif" width="350" />
 
 ---
 
