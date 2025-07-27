@@ -7,7 +7,7 @@
 
 ---
 
-<img src="https://giphy.com/gifs/TOEIAnimationUK-dragon-ball-super-black-goku-saiyan-rose-yhXPFygSaOuzmnq8tF" width="550" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHhxcWQ0cnFtd3BoNTk1bjB0dnNqMTllY3g2a2JkcmU0bjdqeG1mdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yhXPFygSaOuzmnq8tF/giphy.gif" width="550" />
 
 ---
 
