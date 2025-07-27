@@ -10,7 +10,7 @@ Currently learning web development, game development.
 
 ---
 
-![](https://komarev.com/ghpvc/?username=AhmedLouay-coder21&color=red)
+![](https://komarev.com/ghpvc/?username=AhmedLouay-coder21&color=red&label=NUMBER+OF+MORTALS+THAT+HAD+LAID+THEIR+EYES+ON+MY+DOMAIN)
 
 ## AhmedLouay-coder21's GitHub Stats
 
