@@ -17,11 +17,7 @@
 
 ---
 
-## 🏆 AhmedLouay-coder21's GitHub Stats
 
-| ⭐️ Total Stars | 📝 Total Commits | 🔀 Total PRs | ❗️ Total Issues | ⏰ Contributed (last year) |
-|:---:|:---:|:---:|:---:|:---:|
-| 201 | 0 | 0 | 0 | 0 |
 
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedLouay-coder21&show_icons=true&theme=tokyonight)
 
